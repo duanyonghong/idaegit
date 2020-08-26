@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idaegit.iml" filepath="$PROJECT_DIR$/idaegit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modyh/modyh.iml" filepath="$PROJECT_DIR$/modyh/modyh.iml" />
+    </modules>
+  </component>
+</project>
